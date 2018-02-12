@@ -1,0 +1,6 @@
+# schedule
+using tree to list the files, 
+eigen, opencv, python, c-cxx
+## task list
+1. gitignore for each folder.
+2. 
